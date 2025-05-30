@@ -73,6 +73,8 @@ npm start
 ```
 
 ### 6. API Documentation
+Postman API Collection: 
+https://www.postman.com/blue-escape-667494/workspace/him-s-workspace/collection/40900170-a24521a9-c581-4810-a0a5-906ae9a85c27?action=share&creator=40900170
 
 📚 API Endpoints
 All routes are prefixed with /api
